@@ -1,0 +1,13 @@
+.small-image{
+    width: 45%;
+    height: 100%;
+}
+ul{
+    display: table;
+    text-align: justify;
+    margin: 0 auto;
+}
+.black-border{
+    border: 5px solid black;
+    border-radius: 50%;
+}
